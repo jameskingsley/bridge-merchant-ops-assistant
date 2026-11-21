@@ -1,0 +1,26 @@
+[
+  {
+    "id": "POL-001",
+    "title": "Same-Day Dispatch & Lagos/Interstate Cutoff",
+    "category": "fulfillment",
+    "content": "Orders confirmed before 2:00 PM WAT on business days qualify for same-day dispatch within Lagos and major hubs. Orders confirmed after 2:00 PM WAT dispatch the next business day. Interstate deliveries outside Lagos typically take 2 to 4 business days depending on route and weather."
+  },
+  {
+    "id": "POL-002",
+    "title": "Failed Bank Transfer & Settlement Reconciliation",
+    "category": "payments",
+    "content": "Bank transfer payments showing pending or uncredited after 30 minutes should be checked against the session reference before marking as paid. Instant settlements clear within minutes, while disputed or flagged transfers can take up to 24 business hours to reconcile with the clearing bank."
+  },
+  {
+    "id": "POL-003",
+    "title": "Returns, Damaged Goods & Restocking Policy",
+    "category": "returns",
+    "content": "Customers may request a return or exchange within 7 calendar days of delivery for damaged, wrong, or defective items, provided unboxing evidence or item inspection confirms the issue. Perishable or opened consumables are non-returnable unless spoiled on arrival. Approved refunds are processed within 3 to 5 business days."
+  },
+  {
+    "id": "POL-004",
+    "title": "Low Stock & Reorder Thresholds",
+    "category": "inventory",
+    "content": "Merchants should flag a SKU for restock when available sellable units drop to or below 15 units for fast-moving items or 8 units for slower items. Never confirm instant dispatch for out-of-stock SKUs without checking incoming restock ETA."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "sku": "SKU-PWR-100",
+    "name": "20,000mAh Fast-Charge Power Bank",
+    "category": "electronics",
+    "price_ngn": 28500,
+    "stock_qty": 42,
+    "reorder_point": 15,
+    "notes": "Includes USB-C cable; 6-month merchant warranty."
+  },
+  {
+    "sku": "SKU-INV-500",
+    "name": "Mini Solar DC Home Backup Kit",
+    "category": "energy",
+    "price_ngn": 145000,
+    "stock_qty": 9,
+    "reorder_point": 8,
+    "notes": "Two LED bulbs plus 12V fan port; heavy item, interstate shipping quoted by weight."
+  },
+  {
+    "sku": "SKU-PKG-012",
+    "name": "Tamper-Evident Mailer Pack (100 pcs)",
+    "category": "packaging",
+    "price_ngn": 14000,
+    "stock_qty": 6,
+    "reorder_point": 15,
+    "notes": "Internal merchant supply item; below reorder threshold."
+  },
+  {
+    "sku": "SKU-RTR-200",
+    "name": "Portable 4G Wi-Fi MiFi Router",
+    "category": "electronics",
+    "price_ngn": 36000,
+    "stock_qty": 24,
+    "reorder_point": 15,
+    "notes": "Unlocked SIM slot; standard 7-day return window applies."
+  }
+]
